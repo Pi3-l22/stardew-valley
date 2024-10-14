@@ -1,0 +1,55 @@
+site_name: Stardew Valley Journey
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  language: zh
+  logo: assets/logo.png
+  favicon: images/logo.png
+  feature:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - toc.follow
+    - toc.integrate
+    - navigation.top
+    - navigation.footer
+
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: pink
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: pink
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  generator: false  
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Pi3-l22
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/liu622511?s=09
+    - icon: fontawesome/solid/paper-plane
+      link: https://t.me/lc_622_511
+    - icon: fontawesome/solid/envelope
+      link: mailto:622.511.liuchao@gmail.com
+
+copyright: Copyright &copy; 2021 - 2024 Pi3
+
