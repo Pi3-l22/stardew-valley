@@ -30,14 +30,17 @@
 - <a href='Marnie' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Marnie.png" width=50>Marnie 玛妮</a>
 - <a href='Jas' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Jas.png" width=50>Jas 贾斯</a>
 - <a href='Pierre' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Pierre.png" width=50>Pierre 皮埃尔</a>
-- <a href='Calorine' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Calorine.png" width=50>Calorine 卡洛琳</a>
-- <a href='Elliott' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Elliott.png" width=50>Elliott 艾利欧特</a>
-- <a href='Elliott' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Elliott.png" width=50>Elliott 艾利欧特</a>
-- <a href='Elliott' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Elliott.png" width=50>Elliott 艾利欧特</a>
-- <a href='Elliott' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Elliott.png" width=50>Elliott 艾利欧特</a>
-- <a href='Elliott' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Elliott.png" width=50>Elliott 艾利欧特</a>
-- <a href='Elliott' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Elliott.png" width=50>Elliott 艾利欧特</a>
-- <a href='Elliott' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Elliott.png" width=50>Elliott 艾利欧特</a>
-- <a href='Elliott' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Elliott.png" width=50>Elliott 艾利欧特</a>
+- <a href='Calorine' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Caroline.png" width=50>Calorine 卡洛琳</a>
+- <a href='Pam' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Pam.png" width=50>Pam 潘姆</a>
+- <a href='Gus' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Gus.png" width=50>Gus 格斯</a>
+- <a href='Clint' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Clint.png" width=50>Clint 克林特</a>
+- <a href='Willy' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Willy.png" width=50>Willy 威利</a>
+- <a href='Lewis' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Lewis.png" width=50>Lewis 刘易斯</a>
+- <a href='Linus' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Linus.png" width=50>Linus 莱纳斯</a>
+- <a href='Sandy' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Sandy.png" width=50>Sandy 桑迪</a>
+- <a href='Wizard' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Wizard.png" width=50>Wizard 法师</a>
+- <a href='Dwarf' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Dwarf.png" width=50>Dwarf 矮人</a>
+- <a href='Krobus' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Krobus.png" width=50>Krobus 科罗布斯</a>
+- <a href='Leo' class='avatar'><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/avatar/Leo.png" width=50>Leo 雷欧</a>
 
 </div>
