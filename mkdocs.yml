@@ -1,8 +1,8 @@
 site_name: Stardew Valley Journal
 site_url: https://sv.pi3.fun/
 site_author: Pi3-l22
-repo_name: Pi3-l22/stardew_valley
-repo_url: https://github.com/Pi3-l22/stardew_valley
+repo_name: Pi3-l22/stardew-valley
+repo_url: https://github.com/Pi3-l22/stardew-valley
 nav:
   - 首页说明: index.md
   - Stardew Valley v1.5:
