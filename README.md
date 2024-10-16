@@ -6,7 +6,7 @@
 ![](./docs/assets/review.png)
 
 <h3 align="center">
-[Live1](https://sv.pi3.fun) | [Live2](https://blog.pi3.fun/stardew-valley/) | [Live3](https://stardew-valley.pages.dev/) | [Live4](https://stardew-valley-journal.vercel.app/)
+  <a href="https://sv.pi3.fun">Live1</a> | <a href="https://blog.pi3.fun/stardew-valley/">Live2</a> | <a href="https://stardew-valley.pages.dev/">Live3</a> | <a href="https://stardew-valley-journal.vercel.app/">Live4</a>
 </h3>
 
 ## 仓库说明
