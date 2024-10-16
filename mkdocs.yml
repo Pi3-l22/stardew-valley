@@ -1,18 +1,31 @@
 site_name: Stardew Valley Journey
-site_url: https://sv.pi3.fun/
+site_url: https://blog.pi3.fun/stardew-valley/
 site_author: Pi3-l22
 repo_name: Pi3-l22/Stardew_Valley_Journey
 repo_url: https://github.com/Pi3-l22/Stardew_Valley_Journey
 nav:
   - 首页: index.md
-  - page1: page1.md
-  - page2: page2.md
-  - Stardew Valley v1.5: 
-    - character/index.md
+  - Stardew Valley v1.5:
+    - 🏳️‍🌈目录汇总: list.md
     - 人物信息:
-      - character/index.md
+      - 🏳️‍🌈人物汇总: character/index.md
       - Alex: character/Alex.md
-    - 礼物: gift.md
+    - 礼物喜好: gift.md
+    - 地点信息: place.md
+    - 打造清单: build.md
+    - 木匠建造清单: carpenter.md
+    - 铁匠农具升级清单: blacksmith.md
+    - 战斗物品清单: battle.md
+    - 工匠制品清单: craftsman.md
+    - 食谱清单: recipe.md
+    - 收集包清单: collect.md
+    - 素材收集地点(全季): material.md
+    - 四季地图:
+      - 🏳️‍🌈地图汇总: season_map/index.md
+      - 春季地图: season_map/spring.md
+      - 夏季地图: season_map/summer.md
+      - 秋季地图: season_map/fall.md
+      - 冬季地图: season_map/winter.md
 theme:
   name: material
   language: zh
@@ -33,7 +46,7 @@ theme:
     - content.tooltips  # 工具提示
     # - header.autohide  # 自动隐藏标题栏
     # - navigation.expand  # 导航展开
-    - navigation.footer  # 底部导航
+    - navigation.footer  # 底部上一页下一页导航
     - navigation.indexes  # 索引导航
     # - navigation.instant  # 即时导航
     # - navigation.instant.prefetch  # 即时导航预取
@@ -41,7 +54,7 @@ theme:
     # - navigation.prune  # 导航修剪
     - navigation.sections  # 导航章节
     - navigation.tabs  # 导航标签
-    # - navigation.tabs.sticky  # 导航标签粘性
+    - navigation.tabs.sticky  # 导航标签粘性
     - navigation.top  # 返回顶部导航
     - navigation.tracking  # 导航跟踪
     - search.highlight  # 搜索高亮
