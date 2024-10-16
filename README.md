@@ -1,15 +1,16 @@
 <h1 align="center">
   <img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/cover1.5.png" width=128>
   <p>📔星露谷攻略笔记</p>
-  <a href="https://sv.pi3.fun">Live1</a> | <a href="https://sv.pi3.fun">Live2</a> | <a href="https://sv.pi3.fun">Live3</a>
 </h1>
 
 ![](https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/review.png)
 
+[Live1](https://sv.pi3.fun) | [Live2](https://blog.pi3.fun/stardew-valley/)
+
 ## 仓库说明
 
-!!! info
-      在开始阅读本仓库笔记之前，请先仔细阅读本章节的说明文档，这也许会帮助您解决一些困惑。
+> [!NOTE]
+> 在开始阅读本仓库笔记之前，请先仔细阅读本章节的说明文档，这也许会帮助您解决一些困惑。
 
 本仓库内容均来自[@承承我男神](https://tieba.baidu.com/p/7128486926?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=12.66.1.2&st=1729069941&is_video=false&unique=F5E59FF8A8BEBAF532557E2BDC16EC6F)于2020-12-03在[百度贴吧-星露谷物语吧](https://jump2.bdimg.com/f?kw=%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD&ie=utf-8)发布的自制星露谷攻略笔记项目，请[支持原作者](#donate)。
 
@@ -116,13 +117,13 @@
 2.  文件<mark>《[A5] journal renew pages》</mark>为**四季行程表**，供还需要玩2年以上的玩家另外打印、添加进本体中。**总共24页**。
 
 3.  文件<mark>《[A4] season map》</mark>为**附录-四季地图**，包含各季节的采集物、鱼类出现的地点、鱼类出没时间、和农作物的种子价格等信息。**总共8页**。
-!!! warning
-      <mark>《[A4] season map》附录-四季地图</mark>是A4！A4！A4！不要打错尺寸了！ 打印、然后打孔，然后对折，就可以完美塞进本体中，衔接位置为**素材收集地点（全季节）**之后、**玩家行程表**之前。
+> [!WARNING]
+> <mark>《[A4] season map》附录-四季地图</mark>是A4！A4！A4！不要打错尺寸了！ 打印、然后打孔，然后对折，就可以完美塞进本体中，衔接位置为**素材收集地点（全季节）**之后、**玩家行程表**之前。
 
-!!! tip
-      打印出来后，建议放进A5手账本外壳/外皮中，然后根据你买的手账本的孔数打孔。
-
-      如果有现成的空白A5手账替换页和打印机的话，也可以自行打印，这样可以省去打孔的步骤（重点是打孔位置保证准确）。
+> [!TIP]
+> 打印出来后，建议放进A5手账本外壳/外皮中，然后根据你买的手账本的孔数打孔。
+> 
+> 如果有现成的空白A5手账替换页和打印机的话，也可以自行打印，这样可以省去打孔的步骤（重点是打孔位置保证准确）。
 
 ## 更新日志
 
@@ -146,11 +147,13 @@
 ## 支持作者<span id="donate"></span>
 
 > [!NOTE]
+> **支持原作者**
+> 
 > 顺带一提，我在lofter和爱发电上也有号，欢迎大家来关注我（卑微画师在线求关注55555）
-
-      **Lofter**：<a href="https://yenyow.lofter.com" target="_blank">跳转链接</a>
-
-      **爱发电**：<a href="https://afdian.net/@yenyow" target="_blank">跳转链接</a>
+> 
+> **Lofter**：<a href="https://yenyow.lofter.com" target="_blank">跳转链接</a>
+> 
+> **爱发电**：<a href="https://afdian.net/@yenyow" target="_blank">跳转链接</a>
 
 <a href="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/donate.jpg"><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/buy_me_a_coffee.png" width="400"></a>
 
