@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/cover1.5.png" width=128>
+  <img src="./docs/assets/cover1.5.png" width=128>
   <p>📔星露谷攻略笔记</p>
 </h1>
 
-![](https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/review.png)
+![](./docs/assets/review.png)
 
 [Live1](https://sv.pi3.fun) | [Live2](https://blog.pi3.fun/stardew-valley/)
 
