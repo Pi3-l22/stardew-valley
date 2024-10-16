@@ -145,8 +145,8 @@
 
 ## 支持作者<span id="donate"></span>
 
-!!! note "关注原作者"
-      顺带一提，我在lofter和爱发电上也有号，欢迎大家来关注我（卑微画师在线求关注55555）
+> [!NOTE]
+> 顺带一提，我在lofter和爱发电上也有号，欢迎大家来关注我（卑微画师在线求关注55555）
 
       **Lofter**：<a href="https://yenyow.lofter.com" target="_blank">跳转链接</a>
 
