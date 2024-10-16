@@ -1,43 +1,56 @@
 site_name: Stardew Valley Journey
-site_url: https://mydomain.org/mysite
+site_url: https://127.0.0.0:8000/
+repo_name: Pi3-l22/Stardew_Valley_Journey
+repo_url: https://github.com/Pi3-l22/Stardew_Valley_Journey
+nav:
+  - Home: index.md
+  - Stardew Valley v1.5: 
+    - guidance/index.md 
+    - 人物介绍: guidance/person.md
+
+
 theme:
   name: material
   language: zh
   logo: assets/logo.png
   favicon: images/logo.png
+  custom_dir: overrides
   feature:
-    - navigation.instant
-    - navigation.instant.progress
+    # - navigation.instant
+    # - navigation.instant.progress
+    - navigation.tabs
     - navigation.tracking
     - navigation.sections
     - navigation.expand
     - toc.follow
-    - toc.integrate
+    # - toc.integrate
     - navigation.top
     - navigation.footer
-
+    - navigation.indexes
   palette:
-
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: white
-      accent: pink
+      accent: indigo
       toggle:
         icon: material/brightness-7
-        name: Switch to dark mode
+        name: 切换到深色模式
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      accent: pink
+      accent: indigo
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
+        name: 切换到浅色模式
   
 extra_css:
   - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
 
 extra:
   generator: false  
@@ -51,5 +64,5 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:622.511.liuchao@gmail.com
 
-copyright: Copyright &copy; 2021 - 2024 Pi3
+copyright: Copyright &copy; 2021 - 2024 By Pi3
 
