@@ -5,8 +5,8 @@ repo_url: https://github.com/Pi3-l22/Stardew_Valley_Journey
 nav:
   - Home: index.md
   - Stardew Valley v1.5: 
-    - guidance/index.md 
-    - 人物介绍: guidance/person.md
+    - 人物介绍: 
+    - 礼物: gift.md
 
 
 theme:
