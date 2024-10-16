@@ -4,10 +4,10 @@ site_author: Pi3-l22
 repo_name: Pi3-l22/Stardew_Valley_Journey
 repo_url: https://github.com/Pi3-l22/Stardew_Valley_Journey
 nav:
-  - 首页: index.md
+  - 首页说明: index.md
   - Stardew Valley v1.5:
     - 🏳️‍🌈目录汇总: list.md
-    - 人物信息:
+    - 🧑人物信息:
       - 🏳️‍🌈人物汇总: character/index.md
       - Alex 亚历克斯: character/Alex.md
       - Sebastian 塞巴斯蒂安: character/Sebastian.md
@@ -43,22 +43,22 @@ nav:
       - Dwarf 矮人: character/Dwarf.md
       - Krobus 科罗布斯: character/Krobus.md
       - Leo 雷欧: character/Leo.md
-    - 礼物喜好: gift.md
-    - 地点信息: place.md
-    - 打造清单: build.md
-    - 木匠建造清单: carpenter.md
-    - 铁匠农具升级清单: blacksmith.md
-    - 战斗物品清单: battle.md
-    - 工匠制品清单: craftsman.md
-    - 食谱清单: recipe.md
-    - 收集包清单: collect.md
-    - 素材收集地点(全季): material.md
-    - 四季地图:
+    - 🎁礼物喜好: gift.md
+    - 🏝️地点信息: place.md
+    - 🛠️打造清单: build.md
+    - 🪓木匠建造清单: carpenter.md
+    - ⛏️铁匠农具升级清单: blacksmith.md
+    - ⚔️战斗物品清单: battle.md
+    - ⚙️工匠制品清单: craftsman.md
+    - 📝食谱清单: recipe.md
+    - 📦收集包清单: collect.md
+    - 🏜️素材收集地点(全季): material.md
+    - 🗺️四季地图:
       - 🏳️‍🌈地图汇总: season_map/index.md
-      - 春季地图: season_map/spring.md
-      - 夏季地图: season_map/summer.md
-      - 秋季地图: season_map/fall.md
-      - 冬季地图: season_map/winter.md
+      - 🌄春季地图: season_map/spring.md
+      - 🏖️夏季地图: season_map/summer.md
+      - 🏕️秋季地图: season_map/fall.md
+      - 🏔️冬季地图: season_map/winter.md
 theme:
   name: material
   language: zh
@@ -123,6 +123,8 @@ markdown_extensions:
   - attr_list
   - def_list
   - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
   - toc:
       permalink: true
   - pymdownx.emoji:
