@@ -1,32 +1,54 @@
 site_name: Stardew Valley Journey
 site_url: https://sv.pi3.fun/
+site_author: Pi3-l22
 repo_name: Pi3-l22/Stardew_Valley_Journey
 repo_url: https://github.com/Pi3-l22/Stardew_Valley_Journey
 nav:
-  - Home: index.md
+  - 首页: index.md
+  - page1: page1.md
+  - page2: page2.md
   - Stardew Valley v1.5: 
-    - 人物介绍: 
+    - character/index.md
+    - 人物信息:
+      - character/index.md
+      - Alex: character/Alex.md
     - 礼物: gift.md
-
-
 theme:
   name: material
   language: zh
   logo: assets/logo.png
   favicon: images/logo.png
   custom_dir: overrides
+  icon:
+    repo: fontawesome/brands/github-alt
   feature:
-    # - navigation.instant
-    # - navigation.instant.progress
-    - navigation.tabs
-    - navigation.tracking
-    - navigation.sections
-    - navigation.expand
-    - toc.follow
-    # - toc.integrate
-    - navigation.top
-    - navigation.footer
-    - navigation.indexes
+    - announce.dismiss  # 顶部公告栏
+    - content.action.edit  # 源码编辑
+    - content.action.view  # 源码浏览
+    - content.code.annotate  # 代码注释
+    - content.code.copy  # 代码复制
+    # - content.code.select  # 代码选择
+    # - content.footnote.tooltips  # 脚注工具提示
+    # - content.tabs.link  # 标签链接
+    - content.tooltips  # 工具提示
+    # - header.autohide  # 自动隐藏标题栏
+    # - navigation.expand  # 导航展开
+    - navigation.footer  # 底部导航
+    - navigation.indexes  # 索引导航
+    # - navigation.instant  # 即时导航
+    # - navigation.instant.prefetch  # 即时导航预取
+    # - navigation.instant.progress  # 即时导航进度
+    # - navigation.prune  # 导航修剪
+    - navigation.sections  # 导航章节
+    - navigation.tabs  # 导航标签
+    # - navigation.tabs.sticky  # 导航标签粘性
+    - navigation.top  # 返回顶部导航
+    - navigation.tracking  # 导航跟踪
+    - search.highlight  # 搜索高亮
+    - search.share  # 搜索分享
+    - search.suggest  # 搜索建议
+    - toc.follow  # 目录跟随
+    # - toc.integrate  # 目录集成
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -50,7 +72,16 @@ extra_css:
   - stylesheets/extra.css
 
 markdown_extensions:
+  - abbr
   - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
 
 extra:
   generator: false  
@@ -64,5 +95,5 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:622.511.liuchao@gmail.com
 
-copyright: Copyright &copy; 2021 - 2024 By Pi3
+copyright: Copyright &copy; 2021 - 2024 By Pi3-l22
 
