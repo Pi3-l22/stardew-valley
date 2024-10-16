@@ -4,7 +4,7 @@ comments: true
 
 # 📔星露谷攻略笔记
 
-
+![](https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/review.png)
 
 ## 仓库说明
 
@@ -149,6 +149,6 @@ comments: true
 
       **爱发电**：<a href="https://afdian.net/@yenyow" target="_blank">跳转链接</a>
 
-<a href="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/donate.jpg"><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/buy_me_a_coffee.png" width="300"></a>
+<a href="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/donate.jpg"><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/buy_me_a_coffee.png" width="400"></a>
 
 

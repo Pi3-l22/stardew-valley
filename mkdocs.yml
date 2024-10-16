@@ -1,12 +1,12 @@
 site_name: Stardew Valley Journey
-site_url: https://blog.pi3.fun/stardew-valley/
+site_url: https://sv.pi3.fun/
 site_author: Pi3-l22
 repo_name: Pi3-l22/Stardew_Valley_Journey
 repo_url: https://github.com/Pi3-l22/Stardew_Valley_Journey
 nav:
   - 首页说明: index.md
   - Stardew Valley v1.5:
-    - 🏳️‍🌈目录汇总: list.md
+    - 🏳️‍🌈目录汇总: content.md
     - 🧑人物信息:
       - 🏳️‍🌈人物汇总: character/index.md
       - Alex 亚历克斯: character/Alex.md
@@ -78,7 +78,7 @@ theme:
     # - content.tabs.link  # 标签链接
     - content.tooltips  # 工具提示
     # - header.autohide  # 自动隐藏标题栏
-    # - navigation.expand  # 导航展开
+    - navigation.expand  # 导航展开
     - navigation.footer  # 底部上一页下一页导航
     - navigation.indexes  # 索引导航
     # - navigation.instant  # 即时导航
@@ -86,8 +86,8 @@ theme:
     # - navigation.instant.progress  # 即时导航进度
     # - navigation.prune  # 导航修剪
     - navigation.sections  # 导航章节
-    - navigation.tabs  # 导航标签
-    - navigation.tabs.sticky  # 导航标签粘性
+    # - navigation.tabs  # 导航标签
+    # - navigation.tabs.sticky  # 导航标签粘性
     - navigation.top  # 返回顶部导航
     - navigation.tracking  # 导航跟踪
     - search.highlight  # 搜索高亮
