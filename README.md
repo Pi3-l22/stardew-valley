@@ -5,7 +5,7 @@
 
 ![](./docs/assets/review.png)
 
-[Live1](https://sv.pi3.fun) | [Live2](https://blog.pi3.fun/stardew-valley/)
+[Live1](https://sv.pi3.fun) | [Live2](https://blog.pi3.fun/stardew-valley/) | [Live3](https://stardew-valley.pages.dev/) | [Live4](https://stardew-valley-journal.vercel.app/)
 
 ## 仓库说明
 
