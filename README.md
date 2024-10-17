@@ -1,13 +1,20 @@
-<h1 align="center">
-  <img src="./docs/assets/cover1.5.png" width=128>
-  <p>📔星露谷攻略笔记</p>
-</h1>
+<div align="center">
+  <h1 align="center">
+    <img src="./docs/assets/cover1.5.png" width=200>
+    <br>
+    📔星露谷攻略笔记
+    <br>
+    <br>
+    <a href="https://sv.pi3.fun"><img src="./docs/assets/review.png" alt="Stardew Valley"></a>
+  </h1>
+</div>
 
-![](./docs/assets/review.png)
-
-<h3 align="center">
-  <a href="https://sv.pi3.fun">Live1</a> | <a href="https://blog.pi3.fun/stardew-valley/">Live2</a> | <a href="https://stardew-valley.pages.dev/">Live3</a> | <a href="https://stardew-valley-journal.vercel.app/">Live4</a>
-</h3>
+<p align="center">
+  <a href="https://sv.pi3.fun"><img alt="Static Badge" src="https://img.shields.io/badge/Go_to_the-website1-E0BBE4?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://blog.pi3.fun/stardew-valley/"><img alt="Static Badge" src="https://img.shields.io/badge/Go_to_the-website2-D291BC?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://stardew-valley.pages.dev/"><img alt="Static Badge" src="https://img.shields.io/badge/Go_to_the-website3-FEC8D8?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://stardew-valley-journal.vercel.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Go_to_the-website4-FFDFD3?style=flat-square&logo=googlechrome&logoColor=white"></a>
+</p>
 
 ## 仓库说明
 
@@ -149,9 +156,9 @@
 ## 支持作者<span id="donate"></span>
 
 > [!NOTE]
-> **支持原作者**
+> **关注作者**
 > 
-> 顺带一提，我在lofter和爱发电上也有号，欢迎大家来关注我（卑微画师在线求关注55555）
+> 原作者：顺带一提，我在lofter和爱发电上也有号，欢迎大家来关注我（卑微画师在线求关注55555）
 > 
 > **Lofter**：<a href="https://yenyow.lofter.com" target="_blank">跳转链接</a>
 > 
