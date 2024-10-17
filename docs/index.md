@@ -145,9 +145,9 @@ comments: true
 !!! note "关注作者"
       原作者：顺带一提，我在lofter和爱发电上也有号，欢迎大家来关注我（卑微画师在线求关注55555）
 
-      **Lofter**：<a href="https://yenyow.lofter.com" target="_blank">跳转链接</a>
+      **Lofter**：<a href="https://yenyow.lofter.com" target="_blank">https://yenyow.lofter.com</a>
 
-      **爱发电**：<a href="https://afdian.net/@yenyow" target="_blank">跳转链接</a>
+      **爱发电**：<a href="https://afdian.net/@yenyow" target="_blank">https://afdian.net/@yenyow</a>
 
 <a href="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/donate.jpg"><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/buy_me_a_coffee.png" width="400"></a>
 
