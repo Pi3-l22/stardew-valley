@@ -18,7 +18,7 @@
 
 ## 仓库说明
 
-> [!NOTE]
+> [!IMPORTANT]
 > 在开始阅读本仓库笔记之前，请先仔细阅读本章节的说明文档，这也许会帮助您解决一些困惑。
 
 本仓库内容均来自[@承承我男神](https://tieba.baidu.com/p/7128486926?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=12.66.1.2&st=1729069941&is_video=false&unique=F5E59FF8A8BEBAF532557E2BDC16EC6F)于2020-12-03在[百度贴吧-星露谷物语吧](https://jump2.bdimg.com/f?kw=%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD&ie=utf-8)发布的自制星露谷攻略笔记项目，请[支持原作者](#donate)。
