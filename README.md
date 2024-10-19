@@ -10,10 +10,10 @@
 </div>
 
 <p align="center">
-  <a href="https://sv.pi3.fun"><img alt="Static Badge" src="https://img.shields.io/badge/Go_to_the-website1-E0BBE4?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://sv3.zeabur.app"><img alt="Static Badge" src="https://img.shields.io/badge/Go_to_the-website2-FFDFD3?style=flat-square&logo=zotero&logoColor=white"></a>
-  <a href="https://sv1.pi3.fun"><img alt="Static Badge" src="https://img.shields.io/badge/Go_to_the-website3-D291BC?style=flat-square&logo=cloudflare&logoColor=white"></a>
-  <a href="https://sv2.pi3.fun/"><img alt="Static Badge" src="https://img.shields.io/badge/Go_to_the-website4-FEC8D8?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="https://sv.pi3.fun"><img alt="Static Badge" src="https://img.shields.io/badge/Github-website1-E0BBE4?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://sv3.zeabur.app"><img alt="Static Badge" src="https://img.shields.io/badge/Zeabur-website2-FFDFD3?style=flat-square&logo=amazonwebservices&logoColor=white"></a>
+  <a href="https://sv4.zeabur.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Zeabur-website3-FEC8D8?style=flat-square&logo=vultr&logoColor=white"></a>
+  <a href="https://sv1.pi3.fun"><img alt="Static Badge" src="https://img.shields.io/badge/Cloudflare-website4-D291BC?style=flat-square&logo=cloudflare&logoColor=white"></a>
 </p>
 
 ## 仓库说明
