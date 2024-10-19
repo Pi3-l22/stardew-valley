@@ -108,7 +108,7 @@
 
 ## 文件说明
 
-1. 文件<mark>《[A5] Stardew Valley Journal》</mark>为**笔记本体**，包含一下内容，**总共134页**：
+1. 文件<mark>《[A5] Stardew Valley Journal》</mark>为**笔记本体**，包含以下内容，**总共134页**：
       - 封面
       - 人物礼物喜好及日程表
       - 地点信息
