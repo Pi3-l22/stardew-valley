@@ -152,7 +152,8 @@
     1. [[A5] Stardew Valley Journal 1.5.pdf](https://github.com/Pi3-l22/Stardew_Valley_Image/raw/main/%5BA5%5D%20Stardew%20Valley%20Journal%201.5.pdf) 
     2. [[A5] journal renew pages 1.5.pdf](https://github.com/Pi3-l22/Stardew_Valley_Image/raw/main/%5BA5%5D%20journal%20renew%20pages.pdf)
     3. [[A4] season map 1.5.pdf](https://github.com/Pi3-l22/Stardew_Valley_Image/raw/main/%5BA4%5D%20season%20map%201.5.pdf)
-    4. [备注.txt](https://github.com/Pi3-l22/Stardew_Valley_Image/raw/main/note.txt)
+    4. [备注.txt](https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/note.txt)
+    -  [备用下载链接](https://wwrs.lanzouo.com/iR85m2czmi1g) | [手机扫码下载](./docs/assets/download.png) | 密码：1122
 
 ## 支持作者<span id="donate"></span>
 
