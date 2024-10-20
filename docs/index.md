@@ -4,7 +4,7 @@ comments: true
 
 # 📔星露谷攻略笔记
 
-![](./assets/overview.png)
+![](./assets/overview.jpg)
 
 ## 仓库说明
 
@@ -153,6 +153,6 @@ comments: true
 
       **爱发电**：<a href="https://afdian.net/@yenyow" target="_blank">https://afdian.net/@yenyow</a>
 
-<a href="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/donate.jpg"><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/buy_me_a_coffee.png" width="400"></a>
+<a href="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/donate.jpg"><img src="https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/buy_me_a_coffee.jpg" width="400"></a>
 
 
