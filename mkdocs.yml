@@ -86,7 +86,7 @@ theme:
     # - navigation.instant.progress  # 即时导航进度
     # - navigation.prune  # 导航修剪
     - navigation.sections  # 导航章节
-    # - navigation.tabs  # 导航标签
+    - navigation.tabs  # 导航标签
     # - navigation.tabs.sticky  # 导航标签粘性
     - navigation.top  # 返回顶部导航
     - navigation.tracking  # 导航跟踪
