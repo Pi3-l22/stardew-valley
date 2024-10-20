@@ -4,7 +4,7 @@ comments: true
 
 # 📔星露谷攻略笔记
 
-![](https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/review.png)
+![](./assets/overview.png)
 
 ## 仓库说明
 

@@ -5,7 +5,7 @@
     📔星露谷攻略笔记
     <br>
     <br>
-    <a href="https://sv.pi3.fun"><img src="./docs/assets/review.png" alt="Stardew Valley"></a>
+    <a href="https://sv.pi3.fun"><img src="./docs/assets/overview.png" alt="Stardew Valley"></a>
   </h1>
 </div>
 
