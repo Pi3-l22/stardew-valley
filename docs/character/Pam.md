@@ -1,1 +1,1 @@
-![](https://cdn.jsdelivr.net/gh/Pi3-l22/Stardew_Valley_Image/character/24.jpg)
+![](../../assets/book_img/character/24.jpg)
