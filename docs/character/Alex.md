@@ -1,1 +1,1 @@
-![](../../assets/book_img/character/1.jpg)
+![](../assets/book_img/character/1.jpg)

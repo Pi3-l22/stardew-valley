@@ -78,15 +78,15 @@ theme:
     # - content.tabs.link  # 标签链接
     - content.tooltips  # 工具提示
     # - header.autohide  # 自动隐藏标题栏
-    - navigation.expand  # 导航展开
+    # - navigation.expand  # 导航展开
     - navigation.footer  # 底部上一页下一页导航
     - navigation.indexes  # 索引导航
-    # - navigation.instant  # 即时导航
+    - navigation.instant  # 即时导航
     # - navigation.instant.prefetch  # 即时导航预取
     # - navigation.instant.progress  # 即时导航进度
     # - navigation.prune  # 导航修剪
     - navigation.sections  # 导航章节
-    - navigation.tabs  # 导航标签
+    # - navigation.tabs  # 导航标签
     # - navigation.tabs.sticky  # 导航标签粘性
     - navigation.top  # 返回顶部导航
     - navigation.tracking  # 导航跟踪
@@ -143,5 +143,5 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:622.511.liuchao@gmail.com
 
-copyright: Copyright &copy; 2021 - 2024 By Pi3-l22
+copyright: Copyright &copy; 2021 - 2024 By🔮Pi3-l22
 
