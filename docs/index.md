@@ -4,7 +4,7 @@ comments: true
 
 # 📔星露谷攻略笔记
 
-![](./assets/overview.jpg)
+![](./assets/overview.png)
 
 ## 仓库说明
 
