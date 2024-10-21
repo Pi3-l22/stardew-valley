@@ -46,20 +46,20 @@ comments: true
 
       目前项目进度大概是这样：
       （各part只展示部分内容，并非全部内容）
-      ![](https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/t1.jpg)
-      ![](https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/t2.jpg)
-      ![](https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/t3.jpg)
-      ![](https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/t4.jpg)
-      ![](https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/t5.jpg)
-      ![](https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/t6.jpg)
+      ![](./assets/t1.jpg)
+      ![](./assets/t2.jpg)
+      ![](./assets/t3.jpg)
+      ![](./assets/t4.jpg)
+      ![](./assets/t5.jpg)
+      ![](./assets/t6.jpg)
 
       **当季作物地图**：
       
-      ![](https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/t7.jpg)
+      ![](./assets/t7.jpg)
 
       **月计划和周计划部分**：
 
-      ![](https://cdn.jsdelivr.net/gh/Pi3-l22/pico_rep/img/t8.jpg)
+      ![](./assets/t8.jpg)
       
       关于攻略部分的内容，我希望达到的效果是**涵盖面尽可能的广**、在尽可能使通关过程顺畅的同时又**不剧透太多**使得新鲜感和惊喜度下降，所以攻略部分的内容其实是比较**粗糙**、**不精细**的。我的目标只是想做一个方便在游戏进行时同步查阅的线下笔记而已，太详尽就**失去探索的乐趣**了。
       
@@ -138,12 +138,7 @@ comments: true
 
 - 百度贴吧原帖：[跳转链接](https://tieba.baidu.com/p/7128486926?share=9105&fr=sharewise&see_lz=0&share_from=post&sfc=copy&client_type=2&client_version=12.66.1.2&st=1729069941&is_video=false&unique=F5E59FF8A8BEBAF532557E2BDC16EC6F)
 - 原作者分享链接：[跳转链接](https://pan.baidu.com/wap/init?surl=eNn3AAaRuFdxIICgPxf89g&pwd=keuh)
-- 本仓库下载链接：
-    1. [[A5] Stardew Valley Journal 1.5.pdf](https://github.com/Pi3-l22/Stardew_Valley_Image/raw/main/%5BA5%5D%20Stardew%20Valley%20Journal%201.5.pdf) 
-    2. [[A5] journal renew pages 1.5.pdf](https://github.com/Pi3-l22/Stardew_Valley_Image/raw/main/%5BA5%5D%20journal%20renew%20pages.pdf)
-    3. [[A4] season map 1.5.pdf](https://github.com/Pi3-l22/Stardew_Valley_Image/raw/main/%5BA4%5D%20season%20map%201.5.pdf)
-    4. [备注.txt](https://github.com/Pi3-l22/Stardew_Valley_Image/raw/main/note.txt)
-    -  [备用下载链接](https://wwrs.lanzouo.com/iR85m2czmi1g) | [手机扫码下载](./assets/download.png) | 密码：1122
+- 本仓库下载链接：[跳转链接](https://wwrs.lanzouo.com/iR85m2czmi1g) | [手机扫码](./assets/download.png) | 密码:`1122`
 
 ## 支持作者<span id="donate"></span>
 
