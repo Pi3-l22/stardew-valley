@@ -12,8 +12,7 @@
 <p align="center">
   <a href="https://sv.pi3.fun"><img alt="Static Badge" src="https://img.shields.io/badge/Github-website1-E0BBE4?style=flat-square&logo=github"></a>
   <a href="https://sv1.pi3.fun"><img alt="Static Badge" src="https://img.shields.io/badge/Fastly-website2-957DAD?style=flat-square&logo=fastly"></a>
-  <a href="https://sv3.zeabur.app"><img alt="Static Badge" src="https://img.shields.io/badge/Amazon-website3-FFDFD3?style=flat-square&logo=amazonwebservices&logoColor=FF9900"></a>
-  <a href="https://sv2.pi3.fun"><img alt="Static Badge" src="https://img.shields.io/badge/Cloudflare-website5-D291BC?style=flat-square&logo=cloudflare"></a>
+  <a href="https://sv2.pi3.fun"><img alt="Static Badge" src="https://img.shields.io/badge/Cloudflare-website3-D291BC?style=flat-square&logo=cloudflare"></a>
 </p>
 
 ## 仓库说明
